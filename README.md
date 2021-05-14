@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joybaruah
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Web dev
+- 💞️ I’m looking for internship
+- 📫 How to reach me hoyyun1@gmail.com
